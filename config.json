@@ -1,0 +1,6 @@
+{
+    "MAX_BUF_SIZE" : 65535,
+    "TCP_TIMEOUT" : 5.0,
+    "DELIMITER" : " ",
+    "STR_ENCODE" : "utf-8"
+}
